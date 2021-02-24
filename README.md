@@ -10,4 +10,4 @@
 
 ## Other Tutorials
 - A Gentle Introduction to Batch Normalization for Deep Neural Networks - [https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/](https://machinelearningmastery.com/batch-normalization-for-training-of-deep-neural-networks/)
-- 
+- Batch Normalization In Neural Networks Explained (Algorithm Breakdown) - [https://towardsdatascience.com/batch-normalization-explained-algorithm-breakdown-23d2794511c](https://towardsdatascience.com/batch-normalization-explained-algorithm-breakdown-23d2794511c) 
