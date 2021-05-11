@@ -9,7 +9,8 @@
 - Codes - [https://github.com/deepmind/deepmind-research/tree/master/nfnets](https://github.com/deepmind/deepmind-research/tree/master/nfnets)
 
 ## EfficientNetV2: Smaller Models and Faster Training
-- [https://arxiv.org/pdf/2104.00298.pdf](https://arxiv.org/pdf/2104.00298.pdf)
+- Paper - [https://arxiv.org/pdf/2104.00298.pdf](https://arxiv.org/pdf/2104.00298.pdf)
+- Codes - [https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster#code](https://paperswithcode.com/paper/efficientnetv2-smaller-models-and-faster#code)
 
 ## Writer Independent Offline Signature Recognition Using Ensemble Learning (Research Paper)
 - Paper - [https://arxiv.org/abs/1901.06494](https://arxiv.org/abs/1901.06494)
